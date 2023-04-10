@@ -7,7 +7,7 @@
 
 🛡️ In addition, I'm familiar with the principles of responsive design and have experienced optimizing websites for search engine optimization. I've worked on several web development projects in the past, both individually and as part of a team.
 
-🖱️ Currently, I manage two live websites, <a href="https://technuws.com/" target="_blank">Technuws.com</a> and <a href="http://gradlife.in/" target="_blank">GradLife.in</a><br><br><br><br>
+🖱️ Currently, I manage two live websites, <a href="https://technuws.com/" target="_blank">TechNuws.com</a> and <a href="http://gradlife.in/" target="_blank">GradLife.in</a><br><br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajaykumarsimhadri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/ajay_simhadri) 
